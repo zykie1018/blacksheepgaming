@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial;
+}
+h1 {
+	font-family: 'Rockwell', sans-serif;
+	color: white;
+	font-size:50px;
+    margin top:0px;
+	}
+	
+#container {
+	margin-left: 50px;
+	position: absolute;
+}
+
+.
